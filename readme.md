@@ -29,15 +29,15 @@ Soy **Wilson Zauma**
 <hr>
 Siempre abierto a aprender nuevas cosas que mejoren mi vida profesional.  
 
-
+<hr>
 <div> 
   <img  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title = "Python"  alt = "Python"  width = "40"  height = "40" />
   <img  src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"  title = "Python"  alt = "Flask"  width = "40"  height = "40" />
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title = "React"  alt = "React"  width = "40"  height = "40" />   
   <img  src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title = "Python"  alt = "Flask"  width = "40"  height = "40" />
   <img  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title = "React"  alt = "React"  width = "40"  height = "40" />   
-       
-   <img  src = "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title = "JQuery"  alt = "JQuery"  width = "40"  height = "40" />   
+  <img  src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  title = "Docker"  alt = "Docker"  width = "40"  height = "40" />   
+  <img  src = "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title = "JQuery"  alt = "JQuery"  width = "40"  height = "40" />
+  <img  src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title = "JS"  alt = "JS"  width = "40"  height = "40" />
   <img  src = "https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"  title = "R"  alt = "R"  width = "40"  height = "40" />   
   <img  src = "https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"  title = "Nginx"  alt = "Nginx"  width = "40"  height = "40" />   
   <img  src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title = "php"  alt = "php"  width = "40"  height = "40" />   
